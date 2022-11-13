@@ -1,2 +1,2 @@
-# automation_project_showcase
+# Automation project showcase
 Showcases an automation project
